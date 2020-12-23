@@ -52,7 +52,7 @@ class Transformer(nn.Module):
 
         if self._noise:
             mask = torch.rand_like(x[0])
-            x = torch.where(mask <= self._noise, torch.Tensor([0.6]).expand_as(x[0]), x)
+            x = torch.where(mask <= self._noise, torch.Tensor([0]).expand_as(x[0]), x)
 
         x = x.transpose(-1, -2)
 
