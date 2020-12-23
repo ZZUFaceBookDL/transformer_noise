@@ -12,9 +12,10 @@ class OzeDataset(Dataset):
         self.len = xy.shape[0]
         self.x_data = xy[:, 1:]
         self.y_data = xy[:, 0]
+        self.min_label = min(self.y_data)
 
     def __getitem__(self, index):
-        return self.x_data[index], self.y_data[index] - 1
+        return self.x_data[index], self.y_data[index] - self.min_label
 
     def __len__(self):
         return self.len
