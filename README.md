@@ -35,5 +35,8 @@
   <tr>
       <th>CBF</th>  <th></th> <th></th> <th></th> <th></th>
   </tr>
+  <tr>
+      <th>Coffee</th>  <th>100%</th> <th>100%</th> <th>100%</th> <th></th>
+  </tr>
   
 </table>
