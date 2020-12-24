@@ -27,13 +27,13 @@
       <th>BirdChicken</th>  <th></th> <th></th> <th></th> <th></th>
   </tr>
   <tr>
-      <th>BEM</th>  <th></th> <th></th> <th></th> <th></th>
+      <th>BEM</th>  <th>98.67%</th> <th>99.33%</th> <th>98.0%</th> <th>98.0%</th>
   </tr>
   <tr>
-      <th>Car</th>  <th></th> <th></th> <th></th> <th></th>
+      <th>Car</th>  <th>86.67%</th> <th>86.67%</th> <th>88.33%</th> <th>81.67%</th>
   </tr>
   <tr>
-      <th>CBF</th>  <th></th> <th></th> <th></th> <th></th>
+      <th>CBF</th>  <th>94.0%</th> <th>91.56%</th> <th>94.0%</th> <th>96.67%</th>
   </tr>
   <tr>
       <th>Coffee</th>  <th>100%</th> <th>100%</th> <th>100%</th> <th></th>
