@@ -2,7 +2,7 @@
 应用于单维时间序列 score矩阵为channel*channel 扩充且附加noise
 <table>
   <tr>
-    <th>hyperparameters</th> <th>d_channel</th> <th>d_model</th>> <th>Query size</th> <th>Value size</th> <th>Number of heads</th> <th>Number of encoder</th> <th>dropout</th> <th>Positional encoding</th> <th>mask</th>
+    <th>hyperparameters</th> <th>d_channel</th> <th>d_model</th> <th>Query size</th> <th>Value size</th> <th>Number of heads</th> <th>Number of encoder</th> <th>dropout</th> <th>Positional encoding</th> <th>mask</th>
   </tr>
   <tr>
     <th>value</th> <th>32</th> <th>512</th> <th>8</th> <th>8</th> <th>6</th> <th>6</th> <th>0.2</th> <th>True</th> <th>False</th>
