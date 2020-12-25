@@ -21,7 +21,7 @@
       <th>ACSF1</th>  <th>66.0%</th> <th>70.0%</th> <th>69.0%</th> <th></th>
   </tr>
   <tr>
-      <th>Adiac</th>  <th></th> <th></th> <th></th> <th></th>
+      <th>Adiac</th>  <th>77.44%</th> <th>62.56%</th> <th>51.03%</th> <th></th>
   </tr>
   <tr>
       <th>ArrowHead</th>  <th></th> <th></th> <th></th> <th></th>
