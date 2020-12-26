@@ -1,4 +1,6 @@
 # transformer_noise
+使用不同noise得到的单位时间序列的准确率
+=
 应用于单维时间序列 score矩阵为channel*channel 扩充且附加noise
 <table>
   <tr>
@@ -9,6 +11,7 @@
   </tr>
 </table>
 
+=
 <table>
   <tr>
       <th>数据集</th>
