@@ -24,7 +24,7 @@
       <th>Adiac</th>  <th>77.44%</th> <th>62.56%</th> <th>51.03%</th> <th></th>
   </tr>
   <tr>
-      <th>ArrowHead</th>  <th></th> <th></th> <th></th> <th></th>
+      <th>ArrowHead</th>  <th>78.29%</th> <th>78.29%</th> <th>78.29%</th> <th></th>
   </tr>
   <tr>
       <th>Beef</th>  <th>86.67%</th> <th>86.67%</th> <th>83.33%</th> <th></th>
