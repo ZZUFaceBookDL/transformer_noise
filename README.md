@@ -22,43 +22,10 @@ CBF|94.0%|91.56%|94.0%|***96.67%***|
 Coffee|***100%***|***100%***|***100%***|***100%***|
 
 ---
-<table>
-  <tr>
-      <th>数据集</th>
-      <th>测试集准确率(noise=0)</th>
-      <th>测试集准确率(noise=0.2)</th>
-      <th>测试集准确率(noise=0.4)</th>
-      <th>测试集准确率(noise=0.6)</th>
-  </tr>
-  <tr>
-      <th>ACSF1</th>  <th>66.0%</th> <th>70.0%</th> <th>69.0%</th> <th></th>
-  </tr>
-  <tr>
-      <th>Adiac</th>  <th>77.44%</th> <th>62.56%</th> <th>51.03%</th> <th></th>
-  </tr>
-  <tr>
-      <th>ArrowHead</th>  <th>78.29%</th> <th>78.29%</th> <th>78.29%</th> <th></th>
-  </tr>
-  <tr>
-      <th>Beef</th>  <th>86.67%</th> <th>86.67%</th> <th>83.33%</th> <th></th>
-  </tr>
-  <tr>
-      <th>BeetleFly</th>  <th>90.0%</th> <th>90.0%</th> <th>95.0%</th> <th>95.0%</th>
-  </tr>
-  <tr>
-      <th>BirdChicken</th>  <th>85.0%</th> <th>85.0%</th> <th>85.0%</th> <th>85.0%</th>
-  </tr>
-  <tr>
-      <th>BME</th>  <th>98.67%</th> <th>99.33%</th> <th>98.0%</th> <th>98.0%</th>
-  </tr>
-  <tr>
-      <th>Car</th>  <th>86.67%</th> <th>86.67%</th> <th>88.33%</th> <th>81.67%</th>
-  </tr>
-  <tr>
-      <th>CBF</th>  <th>94.0%</th> <th>91.56%</th> <th>94.0%</th> <th>96.67%</th>
-  </tr>
-  <tr>
-      <th>Coffee</th>  <th>100%</th> <th>100%</th> <th>100%</th> <th></th>
-  </tr>
-  
-</table>
+针对单位数据集的模型测试结果对比
+=
+数据集 | FCN| ResNet | 本模型准确率 | 模型描述 |
+-------|----|--------|-------------|------|
+ACSF1|-|-|||
+Adiac|84.4%|82.9%|||
+ArrowHead|84.3%|84.5%|||
