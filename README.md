@@ -25,8 +25,8 @@ Coffee|***100%***|***100%***|***100%***|***100%***|
 =
 对三个单维时间序列进行实验 score=channel 
 
-数据集 | FCN| ResNet | 本模型准确率(test/train) | 模型描述 |
--------|----|--------|--------------------------|---------|
+数据集 | FCN| ResNet | 本模型最好准确率(test/train) | 模型描述 | 本模型最好准确率(test/train) | 模型描述 |
+-------|----|--------|-----------------------------|----------|------------------------------|---------|
 ACSF1|-|-|||
-Adiac|84.4%|82.9%|80.0% / 98.72% |score=channel epoch=1500 dropout=0 noise=0 channel=512 batch=8 PE=True Mask=True|
+Adiac|84.4%|82.9%|80.0% / 98.72%|score=channel epoch=1500 dropout=0 noise=0 channel=512 batch=8 PE=True Mask=True q=v=8 h=N=6|80.0% / 93.59%|score=channel epoch=1500 dropout=0.2 noise=0 channel=256 batch=32 PE=True Mask=True q=v=8 h=N=6|
 ArrowHead|84.3%|84.5%|||
