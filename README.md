@@ -28,5 +28,5 @@ Coffee|***100%***|***100%***|***100%***|***100%***|
 数据集 | FCN| ResNet | 本模型准确率(test/train) | 模型描述 |
 -------|----|--------|--------------------------|---------|
 ACSF1|-|-|||
-Adiac|84.4%|82.9%|||
+Adiac|84.4%|82.9%|80.0% / 98.72% |score=channel epoch=1500 dropout=0 noise=0 channel=512 batch=8 PE=True Mask=True|
 ArrowHead|84.3%|84.5%|||
